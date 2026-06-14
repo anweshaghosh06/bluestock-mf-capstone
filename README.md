@@ -6,16 +6,16 @@ Mutual Fund Analytics Platform
 
 ## Dashboard preview
 ### Page 1 — Industry Overview
-<img src="dashboard/screenshots/01_industry_overview.png" width="800"/>
+<img src="reports/screenshots/01_industry_overview.png" width="800"/>
 
 ### Page 2 — Fund Performance
-<img src="dashboard/screenshots/02_fund_performance.png" width="800"/>
+<img src="reports/screenshots/02_fund_performance.png" width="800"/>
 
 ### Page 3 — Investor Analytics
-<img src="dashboard/screenshots/03_investor_analytics.png" width="800"/>
+<img src="reports/screenshots/03_investor_analytics.png" width="800"/>
 
 ### Page 4 — SIP & Market Trends
-<img src="dashboard/screenshots/04_sip_market_trends.png" width="800"/>
+<img src="reports/screenshots/04_sip_market_trends.png" width="800"/>
 
 ---
 
